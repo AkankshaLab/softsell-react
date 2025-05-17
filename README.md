@@ -1,12 +1,19 @@
-# React + Vite
+# SoftSell - Unused Software License Marketplace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based platform for selling unused software licenses securely and efficiently.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🚀 **Instant License Valuation** - Get fair market prices in minutes
+- 🔒 **Secure Transactions** - Bank-level encryption for all transfers
+- 💬 **AI Assistant** - 24/7 chatbot support for quick answers
+- 📱 **Fully Responsive** - Works perfectly on all devices
+- 📊 **Dashboard Analytics** - Track your sales and earnings
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React 18 + Vite
+- **Styling**: Tailwind CSS
+- **Icons**: Font Awesome 6
+- **Animation**: CSS transitions
+- **Build**: Vite
